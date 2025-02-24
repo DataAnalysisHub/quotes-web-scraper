@@ -10,12 +10,11 @@ This project is a great example of how web scraping can be used to gather struct
 ## **Project Structure**  
 ```
 web-scraping/
-├── scripts/
-│   └── scrape_quotes.py        # Main script for scraping quotes
+├── scrape_quotes.py        # Main script for scraping quotes
 ├── data/
-│   └── quotes.csv              # Output CSV file with scraped quotes
-├── README.md                   # Project documentation
-└── requirements.txt            # Required Python packages
+│   └── quotes.csv          # Output CSV file with scraped quotes
+├── README.md               # Project documentation
+└── requirements.txt        # Required Python packages
 ```
 
 ---
@@ -56,7 +55,7 @@ pip install -r requirements.txt
 ## **Usage**  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/yourusername/web-scraping.git
+   git clone https://github.com/DataAnalysisHub/owurakwarteng/web-scraping.git
    cd web-scraping
    ```
 
@@ -69,7 +68,7 @@ pip install -r requirements.txt
 
 3. **Check the Output**:  
    - The script will print each quote, author, and tag to the console.  
-   - The complete dataset will be saved in `../data/quotes.csv`.  
+   - The complete dataset will be saved in `data/quotes.csv`.  
 
 ---
 

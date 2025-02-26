@@ -66,7 +66,7 @@ pip install -r requirements.txt
    python scrape_quotes.py
    ```
 
-3. **Check the Output**:  
+3. **Check the Output**:
    - The script will print each quote, author, and tag to the console.  
    - The complete dataset will be saved in `data/quotes.csv`.  
 

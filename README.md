@@ -19,7 +19,7 @@ web-scraping/
 
 ---
 
-## **Features**  
+## **Features**
 ### **1. Data Extraction**  
 The script extracts the following details for each quote:  
 - **Quote**: The text of the quote.  

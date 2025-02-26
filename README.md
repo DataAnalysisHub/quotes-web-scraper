@@ -7,7 +7,7 @@ This project is a great example of how web scraping can be used to gather struct
 
 ---
 
-## **Project Structure**  
+## **Project Structure**
 ```
 web-scraping/
 ├── scrape_quotes.py        # Main script for scraping quotes

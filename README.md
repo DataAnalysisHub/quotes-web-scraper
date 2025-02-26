@@ -20,7 +20,7 @@ web-scraping/
 ---
 
 ## **Features**
-### **1. Data Extraction**  
+### **1. Data Extraction**
 The script extracts the following details for each quote:  
 - **Quote**: The text of the quote.  
 - **Author**: The person who authored the quote.  
